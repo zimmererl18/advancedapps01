@@ -1,0 +1,49 @@
+function setup() { 
+  createCanvas(1000, 1000);
+} 
+
+function draw() { 
+  background(220);
+}
+
+function draw(){
+	background(0);
+	fill(100,140,10);
+	
+triangle(100, 350, 192, 20, 286, 350);
+	fill(123,40,12,222);
+		rect(166, 350, 55, 55);
+	fill(320,105,159);
+	ellipse(185,200,25,25);
+		ellipse(155,200,25,25);
+		ellipse(225,200,25,25);
+fill(100,00,90);
+		ellipse(190,100,25,25);
+	ellipse(175,150,25,25);
+	ellipse(205,150,25,25);
+
+
+	fill(275,182,483);
+	ellipse(140,265,25,25);
+		ellipse(215,265,25,25);
+		ellipse(245,265,25,25);
+	fill(255,0,0);
+			ellipse(175,265,25,25);
+			ellipse(175,305,25,25);
+			ellipse(140,305,25,25);
+			ellipse(250,305,25,25);
+			ellipse(215,305,25,25);
+	
+	fill(400,100,100);
+	textSize(20);
+text('Merry X-Mas Mr.C', 100, 500);
+	fill(50,100,200);
+textSize(20);
+text('And a happy New Year', 100, 550);
+	fill(900,80,70);
+textSize(20);
+text('From Leo', 100, 600);
+	
+	
+}
+
